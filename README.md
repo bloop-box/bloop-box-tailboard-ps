@@ -11,13 +11,13 @@ available from JLCPCB. At the time of writing as many parts as possible are used
 
 - two power inputs
   - 5.5x2.1mm barrel-jack
-  - USB-C with PowerDelivery support
-- Can handle 5V and 8 to 28V inputs
+  - USB-C
+- Can handle 5V to 28V inputs
 - Can deliver 5V with up to 3A to the mainboard (assuming it gets enough power)
 - Additional circuitry to prevent damage in case two power supplies are connected
 - Two buttons connected to the Raspberry Pi, per default used for volume control
-- Three LEDs to show status of power supply, can also be remote-controlled by Raspberry Pi through the Mainboard
-
-Firmware for the PD-Controller will be published once it's ready
+- Three LEDs 
+  - One to show status of power supply
+  - Two can be remote-controlled by Raspberry Pi through the Mainboard
 
 An additional, simpler Tailboard that only has 5V input is planned
