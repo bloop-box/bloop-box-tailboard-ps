@@ -20,4 +20,4 @@ available from JLCPCB. At the time of writing as many parts as possible are used
   - One to show status of power supply
   - Two can be remote-controlled by Raspberry Pi through the Mainboard
 
-An additional, simpler Tailboard that only has 5V input is planned
+If you just need the 5V USB-C input and don't want the active circuitry you can use the [Tailboard Light](https://github.com/bloop-box/bloop-box-tailboard-light).
