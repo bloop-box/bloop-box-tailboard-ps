@@ -1,4 +1,6 @@
-# Bloop Box Tailboard
+# Bloop Box Tailboard with Power Supply
+
+## THIS IS NO LONGER MAINTAINED AND THEREFORE ARCHIVED! 
 
 [![CI](https://github.com/bloop-box/bloop-box-tailboard/actions/workflows/ci.yml/badge.svg)](https://github.com/bloop-box/bloop-box-tailboard/actions/workflows/ci.yml)
 
